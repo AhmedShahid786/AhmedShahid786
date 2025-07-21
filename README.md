@@ -32,3 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedshahid786&show_icons=true&locale=en&layout=compact" alt="ahmedshahid786" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedshahid786&show_icons=true&locale=en" alt="ahmedshahid786" /></p>
+
+[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/USERNAME)
