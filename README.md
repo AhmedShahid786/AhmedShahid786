@@ -1,15 +1,18 @@
 <h1 align="center">Hi there, I'm Ahmed Shahid 👋</h1>
-<h3 align="center">A Passionate MERN Stack Developer with 1.5 years of experience in crafting scalable and innovative web and mobile applications. I love turning ideas into reality using modern technologies.</h3>
+<h4 align="center">Software Engineer by title | Product Builder by craft</h4>
+<h3 align="center">
+  Crafting products and writing efficient, scalable software for over 2 years. I love building solutions that add value to people’s lives and that people actually enjoy using.
+</h3>
 
-- 🔭 I’m currently working on **fullstack web and mobile apps.**
+- 🔭 I’m currently building products that **more than 500K people use daily**
 
-- 🌱 I’m currently learning **AWS and Docker**
+- 🌱 I’m currently learning **Golang and distributed systems**
 
-- 🤝 If you're looking for a dedicated developer who can bring your ideas to life, **let's connect and build something amazing together.**
+- 🤝 If you're looking for a dedicated engineer who can bring your ideas to life, **let's connect and build something amazing together.**
 
 - 👯 I’m always willing to collaborate on **open source projects**
 
-- 💬 Ask me about **react, react native, node js and express js**
+- 💬 Ask me about **anything you might want to ask**
 
 - 📫 How to reach me **a.razashahid19@gmail.com**
 
